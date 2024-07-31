@@ -1,1 +1,2 @@
-Customer Churn Analysis 
+# Customer Churn Analysis using Excel
+This project leverages Excel to analyze customer churn data for an online retail company. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to identify patterns and factors contributing to customer churn. The final output is an interactive dashboard that presents actionable insights and recommendations to improve customer retention. The project demonstrates skills in data manipulation, analytical thinking, and data visualization.
